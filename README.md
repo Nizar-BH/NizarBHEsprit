@@ -1,6 +1,6 @@
 I'm a Data Science student and enthusiast about artificial intelligence and the data universe✨.<br>
 I am currently on the hunt for an end-of-studies AI & Data Science internship where i can put to use all the acquired skills I have harnessed from my internships and projects.📊<br>
-Find me elsewhere : <br>
+Find me on linkedIN: <br>
 www.linkedin.com/in/nizar-ben-hmida
 
 <!---
