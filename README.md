@@ -6,8 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3300&color=00999F&vCenter=true&width=600&height=75&lines=I+am+a+Data+Science+Student;I+am+a+Machine+Learning+Practitioner;I+am+a+data+wizard;)](https://git.io/typing-svg)
 
-<p> 🔎 I'm an artificial intelligence practitioner and researcher.
-.</p>
+<p> 🔎 I'm an artificial intelligence practitioner and researcher.</p>
 
 
 - 📊 I am working on a variety of data science projects in industry and resarch.
