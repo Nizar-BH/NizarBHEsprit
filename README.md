@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3300&color=00999F&vCenter=true&width=600&height=75&lines=I+am+a+Data+Science+Student;I+am+a+Machine+Learning+Practitioner;I+am+a+data+wizard;)](https://git.io/typing-svg)
 
-<p> 🎓 I'm a Data Science student and enthusiast about artificial intelligence and the data universe✨.
-I am currently on the hunt for an end-of-studies AI & Data Science internship where I can put to use all the acquired skills I have harnessed from my internships and projects .</p>
+<p> 🔎 I'm an artificial intelligence practitioner and researcher.
+.</p>
 
 
 - 📊 I am working on a variety of data science projects in industry and resarch.
