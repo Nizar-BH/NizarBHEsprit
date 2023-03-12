@@ -4,14 +4,14 @@
 <a href="mailto:nizar.benhmida@esprit.tn" target="_blank"><img alt="" src="https://img.shields.io/badge/nizar.benhmida@esprit.tn-c12314?logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3300&color=00999F&vCenter=true&width=600&height=75&lines=I+am+a+Data+Science+Student;I+am+a+Machine+Learning+Practitioner;I+am+a+data+wizard;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3300&color=00999F&vCenter=true&width=600&height=75&lines=I+am+an+AI+Practitioner+&Researcher ;I+am+a+data+wizard;)](https://git.io/typing-svg)
 
 <p> 🔎 I'm an artificial intelligence practitioner and researcher.</p>
 
 
 - 📊 I am working on a variety of data science projects in industry and resarch.
 
-- 🎯 I’m currently learning **advanced deep learning niches and MLOPs**.
+- 🎯 I’m currently learning **Deep Reinforcement Learning**.
 
 - 💻 Contributing to open source through my projects.
 
